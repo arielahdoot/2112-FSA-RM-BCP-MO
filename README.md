@@ -62,12 +62,12 @@ Hello! This is where Ariel and Fergal will put all the material for BCP. If any 
 
 [Lecture Slides](00-slides/01-Introduction-and-Tidy-Code.pdf)
 
-### Notes
+<!--### Notes
 
 [Full Notes](01-tidy-code)
 
 1. [Indenting](01-tidy-code/A-indenting.js)
-2. [Variable Names](01-tidy-code/B-variableNaming.js)
+2. [Variable Names](01-tidy-code/B-variableNaming.js)-->
 
 ## **02 Loops And Debugging**
 
