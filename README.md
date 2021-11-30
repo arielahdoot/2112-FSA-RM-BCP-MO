@@ -54,13 +54,13 @@ Hello! This is where Ariel and Fergal will put all the material for BCP. If any 
 
 ## **01 Introduction and Tidy Code**
 
-**[Live Lecture](https://youtu.be/ETeNTB7QS_w)**
+**[Live Lecture](https://youtu.be/nJmOtfoZ0YE)**
 
 [Workshop](https://learn.fullstackacademy.com/workshop/5ab7da028b8e9b000477fd36/content/5ab7dbafa468c900045db6ed/text)
 
 [Solutions](https://learn.fullstackacademy.com/workshop/5ab7da028b8e9b000477fd36/content/5ab7dc11a468c900045db703/text)
 
-[Lecture Slides](00-slides/01-Introduction-and-Tidy-Code.pdf)
+[Lecture Slides](/BCPMO-Slides/01-Introduction-and-Tidy-Code.pptx)
 
 <!--### Notes
 
@@ -73,7 +73,7 @@ Hello! This is where Ariel and Fergal will put all the material for BCP. If any 
 
 **[Prerecorded Lecture](https://learn.fullstackacademy.com/workshop/5ac57192f7ff470004a63148/content/5ac571d2bd9f9e0004adb0a4/text)**
 
-<!-- [Lecture Slides](00-slides/02-Loops-and-Debugging.pdf)
+<!-- [Lecture Slides](/BCPMO-Slides/02-Loops-and-Debugging.pptx)
 
 **[Live Lecture](https://youtu.be/ZZ7l0w5ttzo)**
 
@@ -93,7 +93,7 @@ Hello! This is where Ariel and Fergal will put all the material for BCP. If any 
 
 <!-- ## **03 Coercion and Truthiness**
 
-[Lecture Slides](03-coercion-and-truthiness/Coercion-and-Truthiness.pdf)
+[Lecture Slides](BCPMO-Slides/03-Coercion-And-Truthiness.pptx)
 
 **[Live Lecture](https://youtu.be/1rjSVHJdMCw)**
 
