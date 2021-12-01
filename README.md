@@ -73,15 +73,15 @@ Hello! This is where Ariel and Fergal will put all the material for BCP. If any 
 
 **[Prerecorded Lecture](https://learn.fullstackacademy.com/workshop/5ac57192f7ff470004a63148/content/5ac571d2bd9f9e0004adb0a4/text)**
 
-<!-- [Lecture Slides](/BCPMO-Slides/02-Loops-and-Debugging.pptx)
+ [Lecture Slides](/BCPMO-Slides/02-Loops-and-Debugging.pptx)
 
-**[Live Lecture](https://youtu.be/ZZ7l0w5ttzo)**
+**[Live Lecture](https://youtu.be/R-G9t0NilbA)**
 
 [Workshop](https://learn.fullstackacademy.com/workshop/5ac57192f7ff470004a63148/content/5ac572977ec3340004bddd57/text)
 
 [Solutions](https://learn.fullstackacademy.com/workshop/5ac57192f7ff470004a63148/content/5ac57384f7ff470004a63170/text)
 
-### Notes
+<!--### Notes
 
 [Full Notes](02-loops-and-debugging)
 
@@ -89,11 +89,13 @@ Hello! This is where Ariel and Fergal will put all the material for BCP. If any 
 2. [For Loop](02-loops-and-debugging/B-for-loop.js)
 3. [Which is Better](02-loops-and-debugging/C-for-vs-while.js)
 4. [Continue Keyword](02-loops-and-debugging/D-continue.js)
-5. [Break Keyword](02-loops-and-debugging/E-break.js)
+5. [Break Keyword](02-loops-and-debugging/E-break.js)-->
 
-<!-- ## **03 Coercion and Truthiness**
+ ## **03 Coercion and Truthiness**
+ 
+ **[Prerecorded Lecture](https://learn.fullstackacademy.com/workshop/5f24c8acfc4e3d00048aed53/content/5f24c8acfc4e3d00048aed57/text)**
 
-[Lecture Slides](BCPMO-Slides/03-Coercion-And-Truthiness.pptx)
+<!--[Lecture Slides](BCPMO-Slides/03-Coercion-And-Truthiness.pptx)
 
 **[Live Lecture](https://youtu.be/1rjSVHJdMCw)**
 
