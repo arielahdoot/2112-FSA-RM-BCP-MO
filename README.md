@@ -73,7 +73,7 @@ Hello! This is where Ariel and Fergal will put all the material for BCP. If any 
 
 **[Prerecorded Lecture](https://learn.fullstackacademy.com/workshop/5ac57192f7ff470004a63148/content/5ac571d2bd9f9e0004adb0a4/text)**
 
- [Lecture Slides](/BCPMO-Slides/02-Loops-and-Debugging.pptx)
+[Lecture Slides](/BCPMO-Slides/02-Loops-and-Debugging.pptx)
 
 **[Live Lecture](https://youtu.be/R-G9t0NilbA)**
 
@@ -91,19 +91,31 @@ Hello! This is where Ariel and Fergal will put all the material for BCP. If any 
 4. [Continue Keyword](02-loops-and-debugging/D-continue.js)
 5. [Break Keyword](02-loops-and-debugging/E-break.js)-->
 
- ## **03 Coercion and Truthiness**
- 
- **[Prerecorded Lecture](https://learn.fullstackacademy.com/workshop/5f24c8acfc4e3d00048aed53/content/5f24c8acfc4e3d00048aed57/text)**
+## **03 Coercion and Truthiness**
 
-<!--[Lecture Slides](BCPMO-Slides/03-Coercion-And-Truthiness.pptx)
+**[Prerecorded Lecture](https://learn.fullstackacademy.com/workshop/5f24c8acfc4e3d00048aed53/content/5f24c8acfc4e3d00048aed57/text)**
 
-**[Live Lecture](https://youtu.be/1rjSVHJdMCw)**
+[Lecture Slides](BCPMO-Slides/03-Coercion-And-Truthiness.pptx)
+
+**[Live Lecture](https://youtu.be/XGSQlOOeNsY)**
 
 [Workshop](https://learn.fullstackacademy.com/workshop/5f24c8acfc4e3d00048aed53/content/5f24c8acfc4e3d00048aed59/text)
 
 [Solutions](https://learn.fullstackacademy.com/workshop/5f24c8acfc4e3d00048aed53/content/5f24c8acfc4e3d00048aed5b/text)
 
-## **04 Caesar Cypher**
+### Notes
+
+[Full Notes](03-coercion-and-truthiness)
+
+1. [Explicit Coercion 1](03-coercion-and-truthiness/02-explicit-coercion.js)
+2. [Implicit Coercion 1](03-coercion-and-truthiness/03-implicit-coercion-1.js)
+3. [Implicit Coercion 2](03-coercion-and-truthiness/04-implicit-coercion-2.js)
+4. [Boolean Coercion 1](03-coercion-and-truthiness/05-boolean-coercion-1.js)
+5. [Boolean Coercion 2](03-coercion-and-truthiness/06-boolean-coercion-2.js)
+6. [Boolean Coercion 3](03-coercion-and-truthiness/07-boolean-coercion-3.js)
+7. [Logical Operators](03-coercion-and-truthiness/08-logical-operators-1.js)
+
+<!--## **04 Caesar Cypher**
 
 **[Live Lecture (REACTO)](https://youtu.be/bIXEB4iKmCM)**
 
