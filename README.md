@@ -9,8 +9,8 @@ Hello! This is where Ariel and Fergal will put all the material for BCP. If any 
 1. [Introduction And Tidy Code](#01-introduction-and-tidy-code)
 2. [Loops And Debugging](#02-loops-and-debugging)
 3. [Coercion And Truthiness](#03-coercion-and-truthiness)
-<!--3. [Caesar Cypher](#04-caesar-cypher)
-4. [Scope](#05-scope)
+4. [Caesar Cypher](#04-caesar-cypher)
+<!-- 4. [Scope](#05-scope)
 5. [Arrays I](#06-arrays-I)
 6. [Arrays II](#07-arrays-ii)
 7. [Sudoku Validator](#08-sudoku-validator)
@@ -25,6 +25,7 @@ Hello! This is where Ariel and Fergal will put all the material for BCP. If any 
 - [Code Visualizer](http://www.pythontutor.com/visualize.html#mode=edit) Visualize your code step by step
 - [Code Wars - Loops](https://www.codewars.com/kata/search/javascript?q=&r%5B%5D=-8&r%5B%5D=-7&tags=Loops) Practice more loops
 - [practice](https://www.codewars.com/users/MrZizoScream/authored)
+- [CodingBat - JS Practice Problems](https://the-winter.github.io/codingjs/)
 - Optional: Watch these after you've learned about Objects
   - [Pass By Value, Pass By Reference](https://youtu.be/Casw_S_uOoE)
   - [Higher Order Functions I](https://youtu.be/FiEY_pb_cR0)
@@ -115,17 +116,15 @@ Hello! This is where Ariel and Fergal will put all the material for BCP. If any 
 6. [Boolean Coercion 3](03-coercion-and-truthiness/F-boolean-coercion-3.js)
 7. [Logical Operators](03-coercion-and-truthiness/G-logical-operators-1.js)
 
-<!--## **04 Caesar Cypher**
+## **04 Caesar Cypher**
 
 **[Live Lecture (REACTO)](https://youtu.be/bIXEB4iKmCM)**
 
-**[Solution - Caesar Cypher](https://youtu.be/AN2fwt0n454)**
+**[Another Solution Video - Caesar Cypher](https://youtu.be/MMpivlKHmjw)**
 
-**[Solution - Find Missing Number](https://youtu.be/20DegeggnKY)**
+**[Another REACTO Video - Find Missing Number](https://youtu.be/20DegeggnKY)**
 
 [Lecture Slides](04-reacto/04.BCP-REACTO.pdf)
-
---- Solution code from live review in `04-reacto/review.js`
 
 [Workshop](https://learn.fullstackacademy.com/workshop/5ac574e51abd3200043c12e8/content/5ac574e51abd3200043c12ed/text)
 
@@ -136,7 +135,7 @@ Hello! This is where Ariel and Fergal will put all the material for BCP. If any 
 - [Our Caesar Cypher](https://codepen.io/habst/pen/yLVGmxo?editors=0010)
 - [Our vowelCount](https://repl.it/@hpr/WoozyParallelComputer#index.js)
 
-## **05 Scope**
+<!--## **05 Scope**
 
 **[Live Lecture + Workshop Review](https://youtu.be/BI3bZjllt7c)**
 
