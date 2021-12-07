@@ -10,8 +10,8 @@ Hello! This is where Ariel and Fergal will put all the material for BCP. If any 
 2. [Loops And Debugging](#02-loops-and-debugging)
 3. [Coercion And Truthiness](#03-coercion-and-truthiness)
 4. [Caesar Cypher](#04-caesar-cypher)
-<!-- 4. [Scope](#05-scope)
-5. [Arrays I](#06-arrays-I)
+5. [Scope](#05-scope)
+<!-- 5. [Arrays I](#06-arrays-I)
 6. [Arrays II](#07-arrays-ii)
 7. [Sudoku Validator](#08-sudoku-validator)
 8. [Objects](#09-objects)
@@ -135,9 +135,9 @@ Hello! This is where Ariel and Fergal will put all the material for BCP. If any 
 - [Our Caesar Cypher](https://codepen.io/habst/pen/yLVGmxo?editors=0010)
 - [Our vowelCount](https://repl.it/@hpr/WoozyParallelComputer#index.js)
 
-<!--## **05 Scope**
+## **05 Scope**
 
-**[Live Lecture + Workshop Review](https://youtu.be/BI3bZjllt7c)**
+**[Live Lecture + Workshop Review](https://youtu.be/kKtsTr1YN40)**
 
 **[Scope Review](https://youtu.be/EfJiBnVe4JI)**
 
@@ -145,7 +145,7 @@ Hello! This is where Ariel and Fergal will put all the material for BCP. If any 
 
 [Solutions](https://learn.fullstackacademy.com/workshop/5ac576417ec3340004bdddb4/content/5ac576417ec3340004bdddba/text)
 
-## **06 Arrays I**
+<!-- ## **06 Arrays I**
 
 **[Live Lecture + Solutions](https://youtu.be/voy8YuO5SIM)**
 
