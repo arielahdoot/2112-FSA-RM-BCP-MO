@@ -151,8 +151,6 @@ Hello! This is where Ariel and Fergal will put all the material for BCP. If any 
 
 **[Live Lecture + Solutions](https://youtu.be/fVS9E5kasNs)**
 
-**[Live Solutions](https://youtu.be/tEVT4mS0-TQ)**
-
 [Workshop](https://learn.fullstackacademy.com/workshop/5ac57806bd9f9e0004adb186/content/5ac57806bd9f9e0004adb18b/text)
 
 [Solutions](https://learn.fullstackacademy.com/workshop/5ac57806bd9f9e0004adb186/content/5ac57806bd9f9e0004adb18c/text)
