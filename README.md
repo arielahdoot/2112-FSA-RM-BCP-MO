@@ -11,9 +11,9 @@ Hello! This is where Ariel and Fergal will put all the material for BCP. If any 
 3. [Coercion And Truthiness](#03-coercion-and-truthiness)
 4. [Caesar Cypher](#04-caesar-cypher)
 5. [Scope](#05-scope)
-<!-- 5. [Arrays I](#06-arrays-I)
+5. [Arrays I](#06-arrays-I)
 6. [Arrays II](#07-arrays-ii)
-7. [Sudoku Validator](#08-sudoku-validator)
+<!-- 7. [Sudoku Validator](#08-sudoku-validator)
 8. [Objects](#09-objects)
 9. [Recursion I](#10-recursion-i)
 10. [Recursion II](#11-recursion-ii)
@@ -145,9 +145,11 @@ Hello! This is where Ariel and Fergal will put all the material for BCP. If any 
 
 [Solutions](https://learn.fullstackacademy.com/workshop/5ac576417ec3340004bdddb4/content/5ac576417ec3340004bdddba/text)
 
-<!-- ## **06 Arrays I**
+ ## **06 Arrays I**
+ 
+**[Prerecorded Lecture](https://learn.fullstackacademy.com/workshop/5ac57806bd9f9e0004adb186/content/5ac57806bd9f9e0004adb18a/text)**
 
-**[Live Lecture + Solutions](https://youtu.be/voy8YuO5SIM)**
+**[Live Lecture + Solutions](https://youtu.be/fVS9E5kasNs)**
 
 **[Live Solutions](https://youtu.be/tEVT4mS0-TQ)**
 
@@ -155,7 +157,7 @@ Hello! This is where Ariel and Fergal will put all the material for BCP. If any 
 
 [Solutions](https://learn.fullstackacademy.com/workshop/5ac57806bd9f9e0004adb186/content/5ac57806bd9f9e0004adb18c/text)
 
-### Notes
+<!--### Notes
 
 [Full Notes](06-arrays-I)
 
@@ -172,11 +174,13 @@ Hello! This is where Ariel and Fergal will put all the material for BCP. If any 
 11. [Array.indexOf()](06-arrays-I/K-array-indexof.js)
 12. [Array.slice()](06-arrays-I/L-array-slice.js)
 13. [Array.includes()](06-arrays-I/M-array-includes.js)
-14. [Array.reverse()](06-arrays-I/N-array-reverse.js)
+14. [Array.reverse()](06-arrays-I/N-array-reverse.js)-->
 
 ## **07 Arrays II**
 
-**[Lecture Slides](07-arraysII/07.Arrays-II.pdf)**
+**[Prerecorded Lecture](https://learn.fullstackacademy.com/workshop/5ac579437ec3340004bdde15/content/5ac579437ec3340004bdde19/text)**
+
+<!--**[Lecture Slides](07-arraysII/07.Arrays-II.pdf)**
 
 **[Live Lecture + Workshop Review](https://youtu.be/UbX71I8zs5w)**
 
