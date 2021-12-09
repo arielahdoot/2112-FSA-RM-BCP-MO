@@ -11,8 +11,8 @@ Hello! This is where Ariel and Fergal will put all the material for BCP. If any 
 3. [Coercion And Truthiness](#03-coercion-and-truthiness)
 4. [Caesar Cypher](#04-caesar-cypher)
 5. [Scope](#05-scope)
-5. [Arrays I](#06-arrays-I)
-6. [Arrays II](#07-arrays-ii)
+6. [Arrays I](#06-arrays-I)
+7. [Arrays II](#07-arrays-ii)
 <!-- 7. [Sudoku Validator](#08-sudoku-validator)
 8. [Objects](#09-objects)
 9. [Recursion I](#10-recursion-i)
@@ -145,8 +145,8 @@ Hello! This is where Ariel and Fergal will put all the material for BCP. If any 
 
 [Solutions](https://learn.fullstackacademy.com/workshop/5ac576417ec3340004bdddb4/content/5ac576417ec3340004bdddba/text)
 
- ## **06 Arrays I**
- 
+## **06 Arrays I**
+
 **[Prerecorded Lecture](https://learn.fullstackacademy.com/workshop/5ac57806bd9f9e0004adb186/content/5ac57806bd9f9e0004adb18a/text)**
 
 **[Live Lecture + Solutions](https://youtu.be/fVS9E5kasNs)**
@@ -178,19 +178,26 @@ Hello! This is where Ariel and Fergal will put all the material for BCP. If any 
 
 **[Prerecorded Lecture](https://learn.fullstackacademy.com/workshop/5ac579437ec3340004bdde15/content/5ac579437ec3340004bdde19/text)**
 
-<!--**[Lecture Slides](07-arraysII/07.Arrays-II.pdf)**
+**[Lecture Slides](07-arraysII/07.Arrays-II.pdf)**
 
-**[Live Lecture + Workshop Review](https://youtu.be/UbX71I8zs5w)**
+**[Live Lecture + Workshop Review](https://youtu.be/RF-Wa64ZF84)**
 
-**[Review](07-arraysII/solutions.js)**
+### Notes
 
-**[extra topics](07-arraysII/notes.js)**
+[Full Notes](07-arrays-ii)
+
+1. [splice()](06-arrays-ii/A-splice.js)
+2. [join()](07-arrays-ii/B-join.js)
+3. [concat()](07-arrays-ii/C-concat.js)
+4. [Nested Arrays](07-arrays-ii/D-nested-arrays.js)
+5. [Nested Looping](07-arrays-ii/E-nested-looping.js)
+6. [Grid](07-arrays-ii/F-grid.js)
 
 [Workshop](https://learn.fullstackacademy.com/workshop/5ac579437ec3340004bdde15/content/5ac579437ec3340004bdde1a/text)
 
 [Solutions](https://learn.fullstackacademy.com/workshop/5ac579437ec3340004bdde15/content/5ac579437ec3340004bdde1b/text)
 
-## **08 Sudoku Validator**
+<!-- ## **08 Sudoku Validator**
 
 **[Live Lecture + Review](https://youtu.be/NSmLIUAPIYE)**
 
