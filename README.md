@@ -186,7 +186,7 @@ Hello! This is where Ariel and Fergal will put all the material for BCP. If any 
 
 [Full Notes](07-arrays-ii)
 
-1. [splice()](06-arrays-ii/A-splice.js)
+1. [splice()](07-arrays-ii/A-splice.js)
 2. [join()](07-arrays-ii/B-join.js)
 3. [concat()](07-arrays-ii/C-concat.js)
 4. [Nested Arrays](07-arrays-ii/D-nested-arrays.js)
