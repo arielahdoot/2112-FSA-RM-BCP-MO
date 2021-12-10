@@ -13,9 +13,9 @@ Hello! This is where Ariel and Fergal will put all the material for BCP. If any 
 5. [Scope](#05-scope)
 6. [Arrays I](#06-arrays-I)
 7. [Arrays II](#07-arrays-ii)
-<!-- 7. [Sudoku Validator](#08-sudoku-validator)
-8. [Objects](#09-objects)
-9. [Recursion I](#10-recursion-i)
+8. [Sudoku Validator](#08-sudoku-validator)
+9. [Objects](#09-objects)
+<!--9. [Recursion I](#10-recursion-i)
 10. [Recursion II](#11-recursion-ii)
 11. [Next Steps](#12-next-steps) -->
 
@@ -197,7 +197,9 @@ Hello! This is where Ariel and Fergal will put all the material for BCP. If any 
 
 [Solutions](https://learn.fullstackacademy.com/workshop/5ac579437ec3340004bdde15/content/5ac579437ec3340004bdde1b/text)
 
-<!-- ## **08 Sudoku Validator**
+## **08 Sudoku Validator**
+
+**[Prerecorded Lecture](https://learn.fullstackacademy.com/workshop/5ad399aa137d870004733bac/content/5fd0f3b4a310070004b4ee60/text)**
 
 **[Live Lecture + Review](https://youtu.be/NSmLIUAPIYE)**
 
@@ -215,13 +217,15 @@ Hello! This is where Ariel and Fergal will put all the material for BCP. If any 
 
 ## **09 Objects**
 
-**[Live Lecture](https://youtu.be/L9xu5mI6oKI)**
+**[Prerecorded Lecture](https://learn.fullstackacademy.com/workshop/5ac57b3ebd9f9e0004adb210/content/5ac57b3ebd9f9e0004adb214/text)**
+
+<!-- **[Live Lecture](https://youtu.be/L9xu5mI6oKI)**
 
 [Workshop](https://learn.fullstackacademy.com/workshop/5ac57b3ebd9f9e0004adb210/content/5ac57b3ebd9f9e0004adb215/text)
 
 [Solutions](https://learn.fullstackacademy.com/workshop/5ac57b3ebd9f9e0004adb210/content/5ac57b3ebd9f9e0004adb216/text)
 
-#### Notes
+<!--#### Notes
 
 [Full Notes](09-objects)
 
@@ -253,9 +257,9 @@ Hello! This is where Ariel and Fergal will put all the material for BCP. If any 
 2. [Creating Methods](09-objects/O-createmethods.js)
 3. [this](09-objects/P-this.js)
 
-##### 4. [Workshop Questions & Solutions](09-objects/Q-object-methods-workshop-and-solutions-links.md)
+##### 4. [Workshop Questions & Solutions](09-objects/Q-object-methods-workshop-and-solutions-links.md)-->
 
-## **Pass By Value, Pass By Reference - Optional Advanced Lecture 1**
+<!--## **Pass By Value, Pass By Reference - Optional Advanced Lecture 1**
 
 **[Live Lecture](https://youtu.be/Casw_S_uOoE)**
 
@@ -265,9 +269,11 @@ Hello! This is where Ariel and Fergal will put all the material for BCP. If any 
 
 ## **Higher Order Functions II - Optional Advanced Lecture 3**
 
-**[Live Lecture](https://youtu.be/pAtDHJs5bis)**
+**[Live Lecture](https://youtu.be/pAtDHJs5bis)** -->
 
-## **10 Recursion I**
+<!--## **10 Recursion I**
+
+**[Prerecorded Lecture](https://learn.fullstackacademy.com/workshop/5aca423037312200043b634a/content/5aca423137312200043b634f/text)**
 
 [Lecture Slides](10-recursion-i/recursion-i.pdf)
 
@@ -282,6 +288,8 @@ Hello! This is where Ariel and Fergal will put all the material for BCP. If any 
 [Full Notes](10-recursion-i)
 
 ## **11 Recursion II**
+
+**[Prerecorded Lecture](https://learn.fullstackacademy.com/workshop/5aca509c37312200043b6422/content/5aca509c37312200043b6427/text)**
 
 [Lecture Slides](11-recursion-ii/recursion-ii.pdf)
 
