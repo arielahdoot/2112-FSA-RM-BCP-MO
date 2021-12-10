@@ -201,7 +201,7 @@ Hello! This is where Ariel and Fergal will put all the material for BCP. If any 
 
 **[Prerecorded Lecture](https://learn.fullstackacademy.com/workshop/5ad399aa137d870004733bac/content/5fd0f3b4a310070004b4ee60/text)**
 
-**[Live Lecture + Review](https://youtu.be/NSmLIUAPIYE)**
+**[Live Lecture + Review](https://youtu.be/m23RQq_M0qE)**
 
 **[Review](https://youtu.be/kYe2oNQmO04)**
 
