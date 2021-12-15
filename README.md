@@ -275,7 +275,7 @@ Hello! This is where Ariel and Fergal will put all the material for BCP. If any 
 
 **[Prerecorded Lecture](https://learn.fullstackacademy.com/workshop/5aca423037312200043b634a/content/5aca423137312200043b634f/text)**
 
-[Lecture Slides](10-recursion-i/recursion-i.pdf)
+[Lecture Slides](BCPMO-Slides/10-Recursion-I.pptx)
 
 **[Live Lecture + Workshop](https://youtu.be/1yIrpcwMBQY)**
 
