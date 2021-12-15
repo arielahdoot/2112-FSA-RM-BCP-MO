@@ -283,9 +283,9 @@ Hello! This is where Ariel and Fergal will put all the material for BCP. If any 
 
 [Solutions](https://learn.fullstackacademy.com/workshop/5aca423037312200043b634a/content/5aca423137312200043b6350/text)
 
-### Notes
+<!--### Notes
 
-[Full Notes](10-recursion-i)
+[Full Notes](10-recursion-i)-->
 
 ## **11 Recursion II**
 
