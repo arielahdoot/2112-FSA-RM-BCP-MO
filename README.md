@@ -15,9 +15,9 @@ Hello! This is where Ariel and Fergal will put all the material for BCP. If any 
 7. [Arrays II](#07-arrays-ii)
 8. [Sudoku Validator](#08-sudoku-validator)
 9. [Objects](#09-objects)
-9. [Recursion I](#10-recursion-i)
-10. [Recursion II](#11-recursion-ii)
-<!--11. [Next Steps](#12-next-steps) -->
+10. [Recursion I](#10-recursion-i)
+11. [Recursion II](#11-recursion-ii)
+12. [Next Steps](#12-next-steps)
 
 ## Additional Resources
 
@@ -219,7 +219,7 @@ Hello! This is where Ariel and Fergal will put all the material for BCP. If any 
 
 **[Prerecorded Lecture](https://learn.fullstackacademy.com/workshop/5ac57b3ebd9f9e0004adb210/content/5ac57b3ebd9f9e0004adb214/text)**
 
- **[Live Lecture + Workshop](https://youtu.be/kHP8P_dQO_U)**
+**[Live Lecture + Workshop](https://youtu.be/kHP8P_dQO_U)**
 
 [Workshop](https://learn.fullstackacademy.com/workshop/5ac57b3ebd9f9e0004adb210/content/5ac57b3ebd9f9e0004adb215/text)
 
@@ -291,9 +291,9 @@ Hello! This is where Ariel and Fergal will put all the material for BCP. If any 
 
 **[Prerecorded Lecture](https://learn.fullstackacademy.com/workshop/5aca509c37312200043b6422/content/5aca509c37312200043b6427/text)**
 
-<!--[Lecture Slides](11-recursion-ii/recursion-ii.pdf)
+[Lecture Slides](11-recursion-ii/recursion-ii.pdf)
 
-**[Live Lecture](https://youtu.be/EChuj6BS9vk)**
+**[Live Lecture](https://youtu.be/D1TMGhaa3Ss)**
 
 [Workshop](https://learn.fullstackacademy.com/workshop/5aca509c37312200043b6422/content/5aca509c37312200043b6426/text)
 
@@ -308,4 +308,3 @@ Hello! This is where Ariel and Fergal will put all the material for BCP. If any 
 [Lecture Slides](12-next-steps/next-steps.pdf)
 
 **[Live Lecture](https://youtu.be/Hx29z2bjK1A)**
--->
