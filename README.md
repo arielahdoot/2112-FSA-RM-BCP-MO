@@ -307,4 +307,4 @@ Hello! This is where Ariel and Fergal will put all the material for BCP. If any 
 
 [Lecture Slides](12-next-steps/next-steps.pdf)
 
-**[Live Lecture](https://youtu.be/Hx29z2bjK1A)**
+**[Live Lecture](https://youtu.be/n43vyVKr1Os)**
